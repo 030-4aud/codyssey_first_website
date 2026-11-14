@@ -746,7 +746,7 @@ docker ps
 
 ```text
 CONTAINER ID   IMAGE              STATUS
-14c8a8985bb2   my-docker-web:1.0  Up
+                my-docker-web:1.0  Up
 
 PORTS
 0.0.0.0:8080->80/tcp
