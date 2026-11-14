@@ -732,7 +732,6 @@ docker run -d --name my-web -p 8080:80 my-docker-web:1.0
 **실행 결과**
 
 ```text
-14c8a8985bb2c239e51d89566a6cf0591cf6e4952658a3914426ad38e96f0cc7
 ```
 
 ### 10-2. 포트 매핑 확인
